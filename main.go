@@ -11,6 +11,7 @@ func main() {
 	fmt.Printf("%t \n", j)
 	fmt.Printf("%b \n", i)
 	fmt.Printf("%v \n", "Я")
+	fmt.Printf("%+q \n", "Я")
 	fmt.Printf("%d \n", 21)
 	fmt.Printf("%o \n", 21)
 	fmt.Printf("%x \n", 15)
